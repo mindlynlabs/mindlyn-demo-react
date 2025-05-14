@@ -1,0 +1,33 @@
+#mindlyn {
+  height: 100dvh;
+}
+
+.welcome-title {
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.welcome-description {
+  margin-top: 1rem;
+}
+
+.welcome-link {
+  font-weight: 500;
+}
+
+.welcome-link:hover {
+  text-decoration: underline;
+}
+
+.welcome-actions {
+  margin-top: 0.5rem;
+}
+
+.welcome-action-example {
+  cursor: pointer;
+  font-weight: 500;
+}
+
+.welcome-action-example:hover {
+  text-decoration: underline;
+}
