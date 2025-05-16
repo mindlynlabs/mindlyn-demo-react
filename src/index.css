@@ -24,10 +24,5 @@
 }
 
 .welcome-action-example {
-  cursor: pointer;
   font-weight: 500;
-}
-
-.welcome-action-example:hover {
-  text-decoration: underline;
 }

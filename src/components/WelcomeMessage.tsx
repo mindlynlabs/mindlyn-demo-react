@@ -13,10 +13,7 @@ export function WelcomeMessage() {
         </a>
       </p>
       <p className='welcome-actions'>
-        Try actions like{' '}
-        <span onClick={() => navigator.clipboard.writeText('Stake 1 ETH')} className='welcome-action-example'>
-          {'"Stake 1 ETH"'}
-        </span>
+        Try actions like <span className='welcome-action-example'>{'"Stake 1 ETH"'}</span>
       </p>
     </div>
   )
